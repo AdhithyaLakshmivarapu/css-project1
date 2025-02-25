@@ -16,7 +16,8 @@ CSS3 - For styling and layout design
 
 📸 Preview
 
-
+desktop- 
+https://github.com/user-attachments/assets/27ba8448-d46b-44a3-8c7d-b2d74023922a
 
 📂 Folder Structure
 
@@ -31,3 +32,7 @@ css-project1/
 🙌 Acknowledgments
 
 This project is a learning exercise in HTML and CSS, and I appreciate any feedback to help improve my skills.
+
+
+https://github.com/user-attachments/assets/27ba8448-d46b-44a3-8c7d-b2d74023922a
+
